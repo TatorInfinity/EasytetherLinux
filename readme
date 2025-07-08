@@ -1,0 +1,8 @@
+connecting easythere to linux is easy as dowlnoading the script and going to https://www.mobile-stream.com/easytether/linux.html and downloading the pc software.
+
+when both are on your computer run ./easytether/sh with your phone plugged in and easytether app on
+
+
+
+
+it might show a not connected error after connecting ignore this is the internet is working by going in a internet cli.
