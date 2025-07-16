@@ -1,8 +1,47 @@
+im made this running into an issue with my Dell Inspiron 19a when trying to delete windows and install linux.
+i tried debian, ubuntu and mint before. anyways i tried to install Arch btw, and it didnt work it  booted and needed internet from a Wifi Signal or Ethernet. 
+the only opyion i had was USB tethering with a phone that didnt allow it. So i write a scrip to easily just connect to easytether on Mint (way easier to install offline)
+
+all program commands are below.
+
+
+
+
+running portably
+-------------------
+
+
 connecting easythere to linux is easy as dowlnoading the script and going to https://www.mobile-stream.com/easytether/linux.html and downloading the pc software.
 
 when both are on your computer run ./easytether/sh with your phone plugged in and easytether app on
 
-
+$> cd/easteather
+$> ./easytether.sh
 
 
 it might show a not connected error after connecting ignore this is the internet is working by going in a internet cli.
+-----------------------------
+
+
+
+install the commands and auto tether
+
+-------------------
+
+
+
+
+
+commands come installed by default with auto tether
+
+$> cd/easyteather
+$> ./install.sh
+
+-------------------=======
+commands
+-------------------
+easytether - starts easytether (if off)
+killeasytether - kills the easytether connection
+
+
+
