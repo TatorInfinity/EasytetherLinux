@@ -1,4 +1,4 @@
-im made this running into an issue with my Dell Inspiron 19a when trying to delete windows and install linux.
+i made this running into an issue with my Dell Inspiron 19a when trying to delete windows and install linux.
 i tried debian, ubuntu and mint before. anyways i tried to install Arch btw, and it didnt work it  booted and needed internet from a Wifi Signal or Ethernet. 
 the only opyion i had was USB tethering with a phone that didnt allow it. So i write a script to easily just connect to easytether on Mint (way easier to install offline)
 
